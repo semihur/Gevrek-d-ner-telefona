@@ -1,0 +1,1 @@
+# Gevrek-d-ner-telefona
