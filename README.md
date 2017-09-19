@@ -1,1 +1,1 @@
-# Gevrek-d-ner-telefona
+# Gevrek
